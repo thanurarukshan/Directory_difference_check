@@ -1,4 +1,4 @@
-# Directory Comparison Script
+# diff_pro
 
 This shell script compares the contents, permissions, and ownership of files between two directories. It generates a detailed comparison report, highlighting any differences in file content, permissions, ownership, and missing files. If symbolic links are present, the script follows these links and compares the target files.
 
@@ -23,7 +23,7 @@ Ensure that both directories exist and are accessible. Update the script variabl
    DIR2="/path/to/second/directory"
    REPORT_DIR="/path/to/report/directory"
 
-# Directory Comparison Script
+# diff_pro_v2.0
 
 This shell script, `diff_pro_v2.0.sh`, compares the contents, permissions, and ownership of files between two directories or files. It generates a detailed comparison report, highlighting any differences in file content, permissions, ownership, and missing files. If symbolic links are present, the script follows these links and compares the target files.
 
