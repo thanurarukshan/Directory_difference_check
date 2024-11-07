@@ -88,7 +88,7 @@ diff-pro /path/to/file1.txt /path/to/file2.txt --report-name "file_comparison" -
 
 This will compare the files and save the report as `file_comparison.txt`.
 
-### Remote Comparison (Extended Functionality) - Under Construction !
+### Remote Comparison (Extended Functionality) - Under Maintenance !
 
 In version `diff-pro-extended`, the script supports remote comparisons over SSH. The following command compares files or directories located on different servers:
 
